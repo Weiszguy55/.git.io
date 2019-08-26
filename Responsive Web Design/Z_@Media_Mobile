@@ -2,6 +2,10 @@
 and (min-device-width : 320px) 
 and (max-device-width : 568px)
 #Zoe {
-  display: block;
-  margin:0 auto;
+  position: relative;
+  text-line: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 60%;
 }
