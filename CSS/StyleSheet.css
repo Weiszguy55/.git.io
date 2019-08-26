@@ -15,9 +15,9 @@
 {
 @media only screen 
 and (min-device-width : 320px) 
-and (max-device-width : 568px {
-  width: 250px;
-  height: 250px;
+and (max-device-width : 568px) {
+  width: 25%;
+  height: 25%;
 }
 #zoe-pic-text {
   display: center;
