@@ -15,7 +15,8 @@
 {
 @media only screen (min-device-width : 320px) and (max-device-width : 568px) 
   #Zoe {
-    text-align: center
+    display: block;
+    text-align: center;
 }
 #zoe-pic-text {
   display: center;
