@@ -1,19 +1,25 @@
+#image-title {
+  position: relative;
+  top: 75px;
+  font-size: 35px;
+  text-align: center;
+  left: 15px;
+  color: rgb(0,0,0)
+}
 #Zoe {
   display: block;
-  width: 50%;
-  top: 50%;
-  left: 50%;
-  transform:translate(-50%, -50%);
-}
-
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px)
-
-#Zoe {
   margin-left: auto;
   margin-right: auto;
-  width: 720px;
+  width: auto%;
+  height: auto%;
+}
+#zoe-pic-text {
+  position: relative;
+  bottom:40px;
+  right: 35px;
+  font-size: 15px;
+  text-align: center;
+  color: rgb(255, 253, 208)
 }
 #ZoeTongue2 {
   position: relative;
@@ -42,15 +48,6 @@ and (max-device-width : 568px)
   border: 1px red;
   border-style:
   margin: 10px;
-}
-img {
-  width: auto%;
-  height: auto%;
-  border: 1px red;
-}
-div.BoxedUp {
-
-
 }
 #William_VS_Lab_Playing_Fetch {
   display: block;
