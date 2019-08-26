@@ -4,19 +4,7 @@
   font-size: 35px;
   text-align: center;
   left: 15px;
-  color: rgb(0,0,0)
-
-#Zoe {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto%;
-  height: auto%;
-}
-
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px)
+  color: rgb(255, 253, 208)
 
 #Zoe {
   position: absolute;
@@ -24,6 +12,16 @@ and (max-device-width : 568px)
   top: 50%;
   left: 50%;
   transform:translate(-50%, -50%);
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px)
+
+#Zoe {
+  margin-left: auto;
+  margin-right: auto;
+  width: 720px;
 }
 #ZoeTongue2 {
   position: relative;
