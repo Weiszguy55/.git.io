@@ -13,6 +13,12 @@
   width: 50%;
   height: 60%;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) 
+and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71)
+img#Zoe {
+  display: block;
+  text-align: center;
+}
 
 #zoe-pic-text {
   position: relative;
