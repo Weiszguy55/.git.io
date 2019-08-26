@@ -14,14 +14,14 @@
   height: 60%;
 }
 @media screen and (max-width:1024px){
-  img.responsive {width: 200px;}
+  img.Zoe {width: 200px;}
 }
 
 @media screen and (min-width:1025px){
-  img.responsive{width: 300px;}
+  img.Zoe {width: 300px;}
 }
 
-img.responsive{height: auto;}
+  img.Zoe{height: auto;}
 
 #zoe-pic-text {
   position: relative;
