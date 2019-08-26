@@ -13,12 +13,11 @@
   width: 50%;
   height: 200px;
 {
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px) 
-#Zoe {
-  width: 25%;
-  height: 25%;
+@media only screen (min-device-width : 320px) and (max-device-width : 568px) 
+  #Zoe {
+    height: auto;
+    max-width: 100%;
+    margin:0 auto;
 }
 #zoe-pic-text {
   display: center;
