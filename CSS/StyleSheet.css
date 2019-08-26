@@ -1,11 +1,3 @@
-#image-title {
-  position: relative;
-  top: 75px;
-  font-size: 35px;
-  text-align: center;
-  left: 15px;
-  color: rgb(0,0,0)
-}
 #Zoe {
   display: block;
   margin-left: auto;
@@ -24,15 +16,6 @@ and (max-device-width : 568px)
   top: 50%;
   left: 50%;
   transform:translate(-50%, -50%);
-}
-  
-#zoe-pic-text {
-  position: relative;
-  bottom:40px;
-  right: 35px;
-  font-size: 15px;
-  text-align: center;
-  color: rgb(255, 253, 208)
 }
 #ZoeTongue2 {
   position: relative;
