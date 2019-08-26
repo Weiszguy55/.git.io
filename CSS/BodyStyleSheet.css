@@ -1,6 +1,9 @@
 body {
   background-color: rgb(45, 22, 6)
 }
+.picdoc {
+  color: rgb(255, 253, 208)
+}
 .headings {
   font-size: 30px;
   text-align: center;
