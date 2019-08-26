@@ -13,11 +13,7 @@
   width: 50%;
   height: 60%;
 {
-@media only screen (min-width : 320px) and (max-width : 568px) 
-  #Zoe {
-    display: block;
-    text-align: center;
-}
+
 #zoe-pic-text {
   display: center;
   font-size: 15px;
