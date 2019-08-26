@@ -40,10 +40,10 @@ a:visited {
   height: auto;
 }
 .ThreePics {
-  alight: center;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
-  height: auto;
+  height: 50%;
 }
 #Theo_Vs_Lab {
   display: block;
