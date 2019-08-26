@@ -13,7 +13,7 @@
   width: 50%;
   height: 200px;
 {
-@media only screen (min-device-width : 320px) and (max-device-width : 568px) 
+@media only screen (min-width : 320px) and (max-width : 568px) 
   #Zoe {
     display: block;
     text-align: center;
