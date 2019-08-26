@@ -45,8 +45,11 @@ a:visited {
   height: 25%;
   padding: 5px;
 }
-.ThreePicsChildElement {
+.ThreePics {
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
 }
 #Theo_Vs_Lab {
   display: block;
