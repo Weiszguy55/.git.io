@@ -12,11 +12,16 @@
   margin-right: auto;
   width: 50%;
   height: 60%;
+ 
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+  position: relative;
+  text-align: center;
 }
 #zoe-pic-text {
-  position: relative;
-  bottom:40px;
-  right: 35px;
+  display: center;
+  ;
   font-size: 15px;
   text-align: center;
   color: rgb(255, 253, 208)
