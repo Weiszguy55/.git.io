@@ -1,0 +1,81 @@
+#image-title {
+  position: relative;
+  top: 75px;
+  font-size: 35px;
+  text-align: center;
+  left: 15px;
+  color: rgb(0,0,0)
+}
+#Zoe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 60%;
+}
+#zoe-pic-text {
+  position: relative;
+  bottom:40px;
+  right: 35px;
+  font-size: 15px;
+  text-align: center;
+  color: rgb(255, 253, 208)
+}
+#ZoeTongue2 {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+#ZoeWithBigBone {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 280px;
+  height: 378px;
+}
+.row {
+  text-align: center;
+}
+.column {
+  display: inline-block;
+  height: 300px;
+  width: 450px;
+  padding: 15px;
+  border: 1px red;
+  border-style:
+  margin: 10px;
+}
+img {
+  width: auto%;
+  height: auto%;
+  border: 1px red;
+}
+div.BoxedUp {
+
+
+}
+#William_VS_Lab_Playing_Fetch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ZoeLickingTheo {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+#ZoeChristmas {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
