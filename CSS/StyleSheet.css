@@ -7,12 +7,25 @@
   color: rgb(0,0,0)
 }
 #Zoe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto%;
+  height: auto%;
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px)
+
+#Zoe {
   position: absolute;
   width: 50%;
   top: 50%;
   left: 50%;
   transform:translate(-50%, -50%);
 }
+  
 #zoe-pic-text {
   position: relative;
   bottom:40px;
