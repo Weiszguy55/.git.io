@@ -1,10 +1,11 @@
 #image-title {
+  color: rgb(255, 253, 208)
   position: relative;
   top: 25px;
   font-size: 35px;
   text-align: center;
   left: 15px;
-  color: rgb(255, 253, 208)
+  
 
 #Zoe {
   position: absolute;
