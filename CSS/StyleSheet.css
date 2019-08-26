@@ -13,13 +13,6 @@
   width: 50%;
   height: 60%;
 }
-@media screen and (max-width:1024px){
-  img.Zoe {width: 2000px;}
-}
-@media screen and (min-width:1025px){
-  img.Zoe {width: auto;}
-}
-  img.Zoe{height: auto;}
 
 #zoe-pic-text {
   position: relative;
