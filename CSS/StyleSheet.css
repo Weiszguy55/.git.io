@@ -101,7 +101,7 @@ p {
 }
 /* For mobile phones: */
 [class*="col-"] {
-  width: 100%;
+  width: 50%;
 }
 @media only screen and (min-width: 768px) {
   /* For desktop: */
