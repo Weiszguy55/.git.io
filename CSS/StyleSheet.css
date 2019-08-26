@@ -12,8 +12,13 @@
   margin-right: auto;
   width: 50%;
   height: 200px;
- 
-
+{
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px {
+  width: 50px;
+  height: 50px;
+}
 #zoe-pic-text {
   display: center;
   font-size: 15px;
