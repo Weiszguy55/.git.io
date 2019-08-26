@@ -1,0 +1,114 @@
+
+body {
+  background-color: rgb(45, 22, 6)
+}
+a:link {
+  color: orange;
+}
+a:visited {
+  color: grey;
+}
+#image-title {
+  position: relative;
+  top: 55px;
+  font-size: 25px;
+  text-align: center;
+  left: 15px;
+  color: rgb(255, 253, 208)
+}
+#Zoe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 60%;
+}
+#ZoeTongue2 {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+#ZoeWithBigBone {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+.ThreePics {
+  display: inline-block;
+  width: auto%;
+  height: 25%;
+  padding: 5px;
+}
+.ThreePicsChildElement {
+  text-align: center;
+}
+#Theo_Vs_Lab {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+}
+#zoe-pic-text {
+  position: relative;
+  bottom:40px;
+  right: 35px;
+  font-size: 15px;
+  text-align: center;
+  color: rgb(255, 253, 208)
+}
+#William_VS_Lab_Playing_Fetch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ZoeLickingTheo {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+#ZoeChristmas {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+.headings {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(255, 253, 208)
+}
+p {
+  padding: 30px;
+  font-size: 25px;
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  text-indent: 70px;
+  line-height: 1.6;
+  color: rgb(255, 253, 208)
+}
+@media screen and ()  {
+  # {
+
+  }
+}
+
+
+@media (max-width): 1024px) {
+  #Zoe {
+    max-width: 50%;
+    height: auto;
+  }
+}
