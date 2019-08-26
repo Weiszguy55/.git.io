@@ -4,6 +4,4 @@ and (max-device-width : 568px)
 #Zoe {
   position: relative;
   text-line: center;
-  margin-left: auto;
-  margin-right: auto;
 }
